@@ -1,9 +1,3 @@
----
-id: 24_issues
-aliases: []
-tags: []
----
-
 # WoodMiles 🚀
 
 ¡Bienvenido a **WoodMiles**! 🎉  
@@ -62,8 +56,7 @@ Nos encanta escuchar tus ideas. Sigue estos pasos para compartir tu propuesta:
 ## 📫 ¿Dudas? ¿Comentarios?
 
 Si necesitas más ayuda, no dudes en contactarnos:  
-📧 **Email:** <support@woodmiles.com>  
-🌐 **Web:** [www.woodmiles.com](https://www.woodmiles.com)
+📧 **Email:** <dr04860@gmail.com>  
 
 Gracias por ser parte de la comunidad **WoodMiles**. ¡Estamos aquí para servirte mejor y construir algo grande juntos! 💪✨
 
